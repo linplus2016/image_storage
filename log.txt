@@ -1,0 +1,97 @@
+shipped 185 175
+pending 26  34
+Cancelled 0 5
+
+
+您好，这是来自support team的回复
+我们正在处理您的问题，感谢您的耐心等待和配合。
+对于您提出的欧洲站数据显示的问题，亚马逊后台的Business Report的时间会和实际时间有15mins左右的延迟，这是您能在亚马逊后台看到的订单量少于CashCowPro的主要原因；
+
+另外一个可能的原因，是由于时差问题导致，因为我们从亚马逊MWS接口获取数据，这些数据是以UTC时间(UTC+0)为准，然而亚马逊后台则以中欧时间来展示欧洲站（UTC+1）的订单。二者的时差导致了这个问题。
+
+同时CashCowPro的统计数据不会计算Cancelled状态的订单，而亚马逊订单导出时会包含这些订单。如果您统计订单总数，可能会发现这个差别。
+
+除此之外，我们通过多种方法验证了CashCowPro系统的可靠性，没有订单会被遗漏或是被错误的创建。但是统计方式的区别造成的显示不同我们会进一步处理，如果您愿意的话可以提供最近7天的订单导出数据，我们会基于此数据来校准我们的数据显示标准。
+
+同时如果您对于CashCowPro有任何改进建议，也请提出，非常感谢。
+
+
+我之前私发过你一个12-1日导出的rs用户名单，应该有部分用户的旧的id和邮箱。按照如下方法，可以让这部分卖家能够收到发出去的二维码带来的新的买家消息。
+1.按照邮箱在tbl_user查找新的user_id，然后到tbl_qrcode表中查看该用户是否有新的二维码
+2.如果用户没有二维码，则切换成老的user_id, 此时用户之前发出去的二维码有新的聊天用户就能收到了。
+3.如果用户有新的二维码，则先不改动，需要把邮箱收集起来，让招商同事去逐个沟通，是否需要恢复 
+4.之前已经处理过二维码(手动修改过user_id)的用户，不需要再改动。
+
+
+
+https//www.amzbee.com/auth/verify?t=GxdMi70F2yY1BIIZ5UZOgZXu8MVCAu
+
+
+
+补偿措施：
+1.将用户在抓客现有套餐的使用期延长一年；
+2.将用户的Tracker M账号升级为VIP，无绑定店铺数量，二维码生成数量及登陆终端限制，终身有效；
+
+
+CCP老用户转移  第一批 39个
+dynamixlens@gmail.com
+lesley.franssen2003@gmail.com
+eduardas@polichroma.lt
+topsalesinc@gmail.com
+ndcroft1989@gmail.com
+info@nativorganics.com
+mg20one@yahoo.com
+brian@avantradingco.com
+rob@targetblaze.com
+jay@dielon.com
+panait_florin_valentin@yahoo.com
+support@gladiatorgymgear.com
+erichaglund@gmail.com
+zoboomarketinginc@gmail.com
+di.regale@gmail.com
+benevolentnourishmentco@gmail.com
+19219472@qq.com
+joonhbaek@yahoo.com
+amazingshowercurtains@gmail.com
+wassim@sparkpod.com
+richard.kooiker@visionhealthcare.eu
+mike.separzadeh@gmail.com
+jorick@tubble.com
+christoal@hotmail.com
+aathompson1988@gmail.com
+victor@plantifique.com
+kishor.mistry@cybermarketonline.com
+alteroxey@gmail.com
+james@pendulumx.com
+vadim@poshpeanut.com
+alpinecoffee3@gmail.com
+support@sonoranutrition.com
+warhammerimports@gmail.com
+sales@countylinekitchen.com
+jeff@zovoko.com
+
+
+
+
+{2997=>545}, 
+{4000=>5}, 
+{29700=>68}, 
+{26700=>10}, 
+{2697=>14}, 
+{39700=>7}, 
+{4997=>287}, 
+{3997=>30}, 
+{5500=>36}, 
+{49700=>58}, 
+{4247=>3}, 
+{42200=>1}
+
+
+
+
+
+推荐理由--何峥
+主要负责AMZ Tracker维护工作，业务能力全面，能够基于工作需要拓展自己的技术栈，责任心强，多次解决紧急疑难问题，积极帮助同事处理相关问题。对于业务也能提出自己独特的见解，反向推动产品改善。
+
+推荐理由--张梦
+身处任务压力大的岗位，积极应对各种设计需求及改稿要求，经常性的加班加点，保证任务准时完成，专业能力强，能够不断吸收最新的设计风格元素，对交互设计及用户体验有独道理解，促进产品的视觉风格和用户体验不断提升。
